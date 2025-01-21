@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// import ExtraMap from "./components/ExtraMap.vue";
+import ExtraMap from "./components/ExtraMap.vue";
 import FormComponent from "./components/FormComponent.vue";
 import TableUsers from "./components/TableUsers.vue";
 </script>
@@ -18,7 +18,7 @@ import TableUsers from "./components/TableUsers.vue";
 
     <TableUsers />
 
-    <!-- <ExtraMap /> -->
+    <ExtraMap />
   </div>
 </template>
 
